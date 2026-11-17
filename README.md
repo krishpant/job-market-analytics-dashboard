@@ -1,7 +1,9 @@
 # Job Market Analytics Dashboard
 
 An interactive dashboard to explore job market trends and salary insights using Python, Pandas, and Streamlit.
+## Dashboard Preview
 
+![Job Market Dashboard](dashboard.png)
 ## Project Overview
 This project analyzes job market data to understand job roles, experience levels, work settings, and salary trends.
 
